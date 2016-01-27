@@ -1,7 +1,7 @@
 SFA
 ---
 
-Simple Ascii Flow char
+Simple Ascii Flow chart
 
 
 WORK IN PROGRESS
