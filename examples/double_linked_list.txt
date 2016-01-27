@@ -1,0 +1,10 @@
+HEAD NODE
+NODE
+NODE
+NODE
+TAIL NODE
+
+1,2,3,4,5
+5,4,3,2,1
+
+# vim: number

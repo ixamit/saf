@@ -1,0 +1,9 @@
+init counter = 0
+is counter < 10?
+;instruction;
+increment counter
+end
+
+1,2,3,4,2,5
+
+# vim: number
